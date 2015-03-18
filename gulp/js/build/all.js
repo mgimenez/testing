@@ -1,0 +1,1 @@
+!function(){"use strict";var l="helo gulp file 1";console.log(l)}(),function(){"use strict";var l="helo gulp file 2";console.log(l)}();
